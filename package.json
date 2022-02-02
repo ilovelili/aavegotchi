@@ -1,0 +1,14 @@
+{
+  "name": "aavegotchi",
+  "version": "1.0.0",
+  "description": "mini aavegotchi demo",
+  "main": "cloud.js",
+  "repository": "git@github.com:ilovelili/aavegotchi.git",
+  "author": "ilovelili <route666@live.cn>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "moralis": "^1.2.4"
+  },
+  "devDependencies": {}
+}
